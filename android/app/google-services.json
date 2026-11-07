@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2875289531",
+    "project_id": "college-connect-eb8f8",
+    "storage_bucket": "college-connect-eb8f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2875289531:android:0ada6971dbbcc99d011e9e",
+        "android_client_info": {
+          "package_name": "com.example.college_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagD_HY83BCRU8JihlYwXGhvils7loDb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
